@@ -1,6 +1,6 @@
 # Hi, I'm Nidhi Kambadkone 👋
 
-**AI Engineer** I build and ship end-to-end LLM systems, agents, and data pipelines.  
+I'm an **AI Engineer** I build and ship end-to-end LLM systems, agents, and data pipelines.  
 4.5 years of production systems experience → now focused on AI that actually works in the real world.
 
 ---
