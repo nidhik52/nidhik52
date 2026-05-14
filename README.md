@@ -31,9 +31,6 @@
 ### 🏢 [Skylark BI Agent](https://github.com/nidhik52/skylark-bi-agent)
 Conversational Business Intelligence agent for Monday.com. Ask plain-English questions, get live answers from real board data. Built with Chainlit, FastMCP, and Groq. MCP-compatible with Claude Desktop and Cursor.
 
-### 📈 [LLM Lead Generation & Scoring Pipeline](https://github.com/nidhik52/demand-forecasting-drift)
-End-to-end pipeline that scrapes unstructured web data, scores leads 0–100 using LLMs, and serves results via Flask API to a React frontend. Benchmarked 6 LLM providers for accuracy, latency, and cost.
-
 ### 🏘️ [Gate Community Management App](https://github.com/nidhik52/gate-community-app)
 Role-based visitor management platform (Resident / Guard / Admin) with real-time Firebase sync, AI chat assistant, push notifications, and audit logs. Built with React + Node.js + Express + OpenAI.
 
